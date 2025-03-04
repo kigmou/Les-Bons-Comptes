@@ -34,7 +34,7 @@ Environnement de développement : Visual Studio Code
 
 ### Cloner le dépôt :
 
-git clone <lien-du-repo>
+git clone https://github.com/kigmou/Les-Bons-Comptes.git
 
 Ouvrir le projet dans Visual Studio Code
 
